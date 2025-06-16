@@ -14,3 +14,17 @@ int main() {
     printf("\n");
     return 0;
 }
+
+OUTPUT:
+
+Enter the number of elements:
+5
+Enter 5 numbers:
+1
+2
+3
+4
+5
+
+Numbers in reverse order:
+5 4 3 2 1
